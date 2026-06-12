@@ -10,7 +10,7 @@ A Power BI report built on the Sample - Superstore dataset, providing interactiv
 
 ## Report Pages
 
-### Page 1 — Sales Overview
+### Page 1: Sales Overview
 
 A high-level snapshot of overall business performance:
 
@@ -21,7 +21,7 @@ A high-level snapshot of overall business performance:
 - Table: Category-level detail
 - Slicer: Filter all visuals by region
 
-### Page 2 — Profit Analysis
+### Page 2: Profit Analysis
 
 A deeper look at profitability across segments:
 
