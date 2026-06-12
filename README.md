@@ -68,6 +68,3 @@ Key fields include:
 - A custom theme is applied for consistent visual styling.
 - All visuals support cross-filtering; clicking any chart element filters the rest of the page.
 
-- The report was created in Power BI cloud using the April 2026 release.
-- A custom theme is applied for consistent visual styling.
-- All visuals support cross-filtering; clicking any chart element filters the rest of the page.
